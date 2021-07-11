@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lhyjd11
+- 👀 I like researching mobile phones very much
+- 🌱 I'm currently learning C++,but the effect is not good
+- 💞️ I'm a code novice interested in code,looking for a teacher
+- 📫 You can contact me through my email 577291345@qq.com
